@@ -8,9 +8,10 @@ Ascend’s agentic AI orchestration tool, Otto, handles Python, SQL, and API cal
 
 🚀 Features
 ---
-Autonomous plan, execute, test, self-fix and iterate across when building the data pipelines and dashboards. End to end ingestion of multiple data sources, transformation, validation, forecasting, etc  
-Prompt-driven executions enabling observability into agent decisions.
-Actionable insights with identification on what needs to happen, so as to reduce environmental impact.
+- Autonomous plan, execute, test, self-fix and iterate across when building the data pipelines and dashboards.
+- End to end ingestion of multiple data sources, transformation, validation, forecasting, etc
+- Prompt-driven executions enabling observability into agent decisions.
+- Actionable insights with identification on what needs to happen, so as to reduce environmental impact.
 
 📍 Key Risk Considerations
 ---
